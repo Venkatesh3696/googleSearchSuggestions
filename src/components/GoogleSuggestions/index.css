@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  width: 40vw;
+}
+.bottom-container {
+  width: 55vw;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 20px;
+  padding: 5px;
+}
+.search-icon {
+  width: 30px;
+}
+.input-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input-element {
+  color: red;
+  width: 53vw;
+  height: 30px;
+  border-style: none;
+  border-radius: 20px;
+}
